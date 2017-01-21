@@ -112,7 +112,7 @@
       </form>
       <!-- /.search form -->
       <!-- sidebar menu: : style can be found in sidebar.less -->
-      
+      @include('admin.partial.nav')
     </section>
     <!-- /.sidebar -->
   </aside>
