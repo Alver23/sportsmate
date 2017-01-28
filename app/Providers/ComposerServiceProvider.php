@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace SportsMate\Providers;
 
 use Illuminate\Console\AppNamespaceDetectorTrait;
 use Illuminate\Support\ServiceProvider;

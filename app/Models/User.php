@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models;
+namespace SportsMate\Models;
 
 use Spatie\Permission\Traits\HasRoles;
 use Illuminate\Notifications\Notifiable;
