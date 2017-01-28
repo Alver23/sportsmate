@@ -6,10 +6,10 @@
  * Time: 01:56 AM
  */
 
-namespace App\Factories;
+namespace SportsMate\Factories;
 
 
-use App\Repositories\MenuRepository;
+use SportsMate\Repositories\MenuRepository;
 
 class MenuFactory
 {

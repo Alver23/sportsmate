@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models;
+namespace SportsMate\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

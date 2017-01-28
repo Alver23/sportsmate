@@ -6,10 +6,10 @@
  * Time: 01:54 AM
  */
 
-namespace App\Http\ViewComposers;
+namespace SportsMate\Http\ViewComposers;
 
 
-use App\Factories\MenuFactory;
+use SportsMate\Factories\MenuFactory;
 use Illuminate\Http\Request;
 use Illuminate\View\View;
 

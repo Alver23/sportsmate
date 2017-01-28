@@ -6,9 +6,9 @@
  * Time: 01:58 AM
  */
 
-namespace App\Repositories;
+namespace SportsMate\Repositories;
 
-use App\Models\Menu;
+use SportsMate\Models\Menu;
 
 class MenuRepository
 {
